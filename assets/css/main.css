@@ -3204,6 +3204,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
+		background-color:#00000075;
 	}
 
 		.wrapper > .inner {
