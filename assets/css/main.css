@@ -3927,7 +3927,7 @@ input, select, textarea {
 		}
 /*PONER AL CENTRO*/
 .experto{
-	width: 200px;
+	width: 200px!important;
 	height:200px;
 	border-radius:50%;
 }
