@@ -3110,9 +3110,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
-			.spotlights > section {
-				display: block;
-			}
+			
 
 				.spotlights > section > .image {
 					width: 100%;
